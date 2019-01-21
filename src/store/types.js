@@ -1,0 +1,2 @@
+export const TO_HANDLE_CHANGE = 'TO_HANDLE_CHANGE';
+export const TO_HANDLE_CHANGE2 = 'TO_HANDLE_CHANGE2';
